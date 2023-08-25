@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Xiaoan Zhu
+title: about
 permalink: /
 subtitle: ImagingLab@ZJU 
           (The page of our lab is under construction).
